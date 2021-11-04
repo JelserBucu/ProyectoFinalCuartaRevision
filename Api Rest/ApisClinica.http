@@ -1,0 +1,16 @@
+
+
+GET http://clinicagt-001-site1.itempurl.com/api/PRODUCTOS_APIs
+
+###
+
+POST http://clinicagt-001-site1.itempurl.com/api/PRODUCTOS_APIs
+
+###
+
+PUT http://clinicagt-001-site1.itempurl.com/api/PRODUCTOS_APIs
+
+
+###
+
+DELETE  http://clinicagt-001-site1.itempurl.com/api/PRODUCTOS_APIs
